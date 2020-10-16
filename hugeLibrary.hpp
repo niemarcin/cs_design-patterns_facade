@@ -71,3 +71,9 @@ public:
 private:
     ColorSpace colors_;
 };
+
+/*
+ *
+ * Much more code for Image and video conversion. Much more classes and so on.
+ *
+ */
